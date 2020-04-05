@@ -11,14 +11,11 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
   sceneClasses:
     Assets/Scenes/SampleScene.unity:
     - Class: 1
@@ -481,5 +478,5 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: E:/School_Work/S5 - Spring 20/DIG 3480 - Computer As A Medium/DIG-3840-Projects/Tutorial
-    1.5 - Sound and Animation/Builds/Tutorial 1.5 - Sound and Animation.exe
+  playerPath: G:/School_Work/S5 - Spring 20/DIG 3480 - Computer As A Medium/DIG-3840-Projects/Tutorial
+    1.5 - Sound and Animation/Builds/test/Tutorial 1.5 - Sound and Animation.exe
